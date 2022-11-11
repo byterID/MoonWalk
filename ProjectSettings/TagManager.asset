@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerH
+  - Button
+  - Enemy
+  - default
+  - Rock
+  - Battery
+  - Friendly
+  - Coin
+  - Station1
+  - Station2
+  - Station3
+  - Void
+  - Fail
+  - Exp1
+  - Exp2
+  - Exp3
+  - Win2
+  - Win1
+  - Winn
+  - Signal1
+  - Signal2
+  - Signal3
+  - Signal4
+  - Signal5
+  - Ground1
+  - Ground2
+  - Ground3
+  - Activate3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Button
+  - PlayerH
+  - Enemy
+  - Player
+  - Grabbable
+  - DeadHit
+  - DeadZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
