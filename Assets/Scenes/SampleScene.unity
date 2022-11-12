@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.28174758, g: 0.25501072, b: 0.2661411, a: 1}
+  m_IndirectSpecularColor: {r: 0.2817481, g: 0.25501117, b: 0.26614207, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -9976,10 +9976,6 @@ PrefabInstance:
     - target: {fileID: 4897607310870066, guid: a9d2de84afb308a4796cc671d3432b4d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114392411909336904, guid: a9d2de84afb308a4796cc671d3432b4d, type: 3}
-      propertyPath: _laserBeamBehavior
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a9d2de84afb308a4796cc671d3432b4d, type: 3}
@@ -43744,15 +43740,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2193416613071998245, guid: 4383188c77309c74a9a8ea79c4d6cf7d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1129
+      value: 1899.7
       objectReference: {fileID: 0}
     - target: {fileID: 2193416613071998245, guid: 4383188c77309c74a9a8ea79c4d6cf7d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 23.4
+      value: 0.58
       objectReference: {fileID: 0}
     - target: {fileID: 2193416613071998245, guid: 4383188c77309c74a9a8ea79c4d6cf7d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1247
+      value: -2182.8
       objectReference: {fileID: 0}
     - target: {fileID: 2193416613071998245, guid: 4383188c77309c74a9a8ea79c4d6cf7d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -86859,7 +86855,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!95 &8428267062443965654
 Animator:
   serializedVersion: 3
